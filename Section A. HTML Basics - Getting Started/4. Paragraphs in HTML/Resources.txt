@@ -1,0 +1,3 @@
+Paragraphs in HTML
+
+- To create a paragraph, use the <p> tag

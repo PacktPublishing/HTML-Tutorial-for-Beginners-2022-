@@ -1,0 +1,8 @@
+Set image on a web page from local computer in HTML
+		   
+<img>
+
+  src = "file:/E:/   "
+  alt - alternate text
+  height
+  width

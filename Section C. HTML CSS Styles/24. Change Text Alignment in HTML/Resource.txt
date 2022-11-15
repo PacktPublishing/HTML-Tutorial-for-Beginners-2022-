@@ -1,0 +1,5 @@
+Change text alignment in HTML
+
+- Use the CSS text-align property
+- style attribute
+- style element

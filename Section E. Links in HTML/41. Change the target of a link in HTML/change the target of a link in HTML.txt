@@ -1,0 +1,14 @@
+
+            Change the target of a link in HTML
+		   
+<a>...</a>
+
+target attribute
+
+ _blank: link will open in a new tab
+ self: link will open in the same tab
+ parent: link will open in a parent frame
+ top: link will open in top frame
+ 
+ target="_blank"
+ target="self"

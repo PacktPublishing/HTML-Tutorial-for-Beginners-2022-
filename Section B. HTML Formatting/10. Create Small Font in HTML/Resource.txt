@@ -1,0 +1,4 @@
+Create small font in HTML
+
+- <small> element
+- Samller text than the default

@@ -1,0 +1,9 @@
+Set text direction in HTML
+		   
+
+Tag: <style>
+CSS Property: direction
+Values: rtl | ltr
+		   
+
+	

@@ -1,0 +1,13 @@
+
+             External Stylesheet in HTML
+		   
+<link>  
+
+"style.css"
+
+style attribute - ignore
+
+
+ 
+
+	

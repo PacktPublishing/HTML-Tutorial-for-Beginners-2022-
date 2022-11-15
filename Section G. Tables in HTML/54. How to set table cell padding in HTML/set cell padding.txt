@@ -1,0 +1,9 @@
+
+             Set cell padding in HTML	   
+
+HTML5: padding property
+
+Before HTML5: cellpadding attribute (deprecated) - NO
+
+Cell padding: 
+Space between cell borders and the content within a cell

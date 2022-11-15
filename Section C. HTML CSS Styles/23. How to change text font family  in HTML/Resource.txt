@@ -1,0 +1,3 @@
+Change text font family in HTML
+
+ - Use the CSS font-family property

@@ -1,0 +1,4 @@
+Underline text in HTML
+
+- <u>
+- Use the CSS "text-decoration: underline" property

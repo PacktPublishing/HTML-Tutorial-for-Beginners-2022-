@@ -1,0 +1,11 @@
+
+            Use image as a link in HTML
+		   
+<img>
+
+  src: URL/source of the image
+  alt: alternate text (good for SEO)
+  height: height of the image
+  width: width of the image
+  
+ 

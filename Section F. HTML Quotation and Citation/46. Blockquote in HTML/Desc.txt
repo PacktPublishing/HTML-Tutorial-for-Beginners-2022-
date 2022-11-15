@@ -1,0 +1,1 @@
+Learn to work with the <blockquote> element in HTML. We will also see the difference between <q> and <blockquote> element.

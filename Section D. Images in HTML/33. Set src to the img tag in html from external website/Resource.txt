@@ -1,0 +1,8 @@
+Set src to img tag from an external website		   
+
+- <img>
+
+  src - URL/SRC
+  height - height of the image
+  width - width of the image
+  alt - alternate text

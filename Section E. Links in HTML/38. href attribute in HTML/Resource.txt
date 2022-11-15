@@ -1,0 +1,6 @@
+href attribute in HTML
+
+- Set a link
+- To add href attribute in a tag
+
+<a href="link.html"> Demo </a>

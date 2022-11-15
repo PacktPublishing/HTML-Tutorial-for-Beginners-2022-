@@ -1,0 +1,1 @@
+Learn how to use image as a link in HTML. We will use the <img> tag inside the anchor tag i.e. <a> element.

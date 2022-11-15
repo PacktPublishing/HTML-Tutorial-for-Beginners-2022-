@@ -1,0 +1,9 @@
+Inline CSS in HTML
+   
+ - style attribute
+ 
+ - External stylesheet
+ <style>
+ 
+
+	

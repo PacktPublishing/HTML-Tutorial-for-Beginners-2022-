@@ -1,0 +1,9 @@
+
+           Set horizontal header for a table
+
+<th>...</th>
+
+<tr>
+  <th></th>
+  <th></th>
+</tr>		   

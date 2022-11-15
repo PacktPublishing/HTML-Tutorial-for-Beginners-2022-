@@ -1,0 +1,10 @@
+
+           Table rowspan and colspan in HTML	   
+
+attributes used to merge table columns and rows
+
+colspan attribute: number of columns a cell should span
+rowspan attribute: number of rows a cell should span
+
+<td colspan="4">
+<td rowspan="4">

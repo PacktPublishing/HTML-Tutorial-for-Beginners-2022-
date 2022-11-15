@@ -1,0 +1,1 @@
+Learn how to set text direction in HTML using style attribute with direction property. We will use the values, ltr or rtl for Left-to-Right and Right-to-Left respectively.

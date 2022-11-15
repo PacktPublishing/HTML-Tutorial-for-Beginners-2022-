@@ -1,0 +1,1 @@
+Learn how to create a link to send an email in HTML.

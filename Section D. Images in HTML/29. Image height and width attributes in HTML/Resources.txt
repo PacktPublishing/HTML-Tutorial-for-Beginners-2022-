@@ -1,0 +1,6 @@
+Image height and width attribute in HTML
+
+- Height
+- Width
+- <img>
+- <img src="" height="" width="" alt=""/>

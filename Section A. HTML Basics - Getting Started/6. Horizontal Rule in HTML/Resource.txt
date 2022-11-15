@@ -1,0 +1,3 @@
+Horizontal Rule in HTML
+
+<hr> : Seprate content and set horizontal rule.

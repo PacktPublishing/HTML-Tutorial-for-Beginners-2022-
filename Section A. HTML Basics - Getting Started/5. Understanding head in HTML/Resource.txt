@@ -1,0 +1,6 @@
+Understanding Head in HTML
+
+- container for head element
+- <base> <link> <script> <style>
+- title tag
+- metadata

@@ -1,0 +1,4 @@
+Mark strikethrough text in HTML
+
+- <strike> - Obsolete
+- text-decoration: line-through

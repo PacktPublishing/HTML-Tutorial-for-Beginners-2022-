@@ -1,0 +1,8 @@
+Using stylesheet in HTML
+
+- Present a document on screen
+- Change the text color, font color, font size, alignment, etc.
+
+1. External: .css and use <link>
+2. Internal: <style>
+3. Inline: style attribute

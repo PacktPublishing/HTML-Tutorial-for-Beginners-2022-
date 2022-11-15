@@ -1,0 +1,8 @@
+
+             Merge table cells in HTML	  
+
+colspan: number of columns a cell should span
+rowspan: number of rows a cell should span
+
+<td colspan="3">
+<td rowspan="2">

@@ -1,0 +1,4 @@
+Blockquote in HTML
+
+- Set long quotations - <blockquote>
+- Short quotations - <q>

@@ -1,0 +1,1 @@
+Learn how to merge table cells in HTML. To merge cells, use the colspan and rowspan attributes. 

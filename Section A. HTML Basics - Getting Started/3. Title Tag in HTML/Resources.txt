@@ -1,0 +1,6 @@
+<title> tag in HTML
+
+- Defines the title of the HTML document
+- Gets displayed in the web browser's title bar or the tab
+- Title gets displayed in search engine results
+- Add only a single <title> element in a web page

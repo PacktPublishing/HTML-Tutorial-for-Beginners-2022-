@@ -1,0 +1,9 @@
+
+            Set image on a web page in HTML
+		   
+<img>
+
+  src = url/src of the image
+  alt = alternate text (screenreaders)
+  height= height of the image
+  width= width of the image

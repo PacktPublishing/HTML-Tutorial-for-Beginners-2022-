@@ -1,0 +1,4 @@
+Mark deleted text in HTML
+
+- <strike> - Deprecated
+- <del>

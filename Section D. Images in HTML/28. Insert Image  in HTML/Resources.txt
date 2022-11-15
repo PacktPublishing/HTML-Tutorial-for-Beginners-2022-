@@ -1,0 +1,6 @@
+Insert image in an HTML web page
+
+- <img> element
+- Height
+- Width
+- <img src="" height="" width="" alt=""/>

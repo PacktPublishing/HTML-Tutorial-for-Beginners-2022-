@@ -1,0 +1,6 @@
+Internal CSS Stylesheet in HTML
+		   
+- External CSS: <link> -- style.css
+- Inline CSS: style attribute -- <p style="color:red;">
+- Internal CSS: <style> tag
+

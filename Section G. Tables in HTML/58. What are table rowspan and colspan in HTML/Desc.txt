@@ -1,0 +1,1 @@
+Learn how to use rowspan and colspan attributes to merge table columns and rows.

@@ -1,0 +1,6 @@
+How to set font/text color in HTML
+
+- Use the CSS color property
+
+- <style></style>
+- style attribute

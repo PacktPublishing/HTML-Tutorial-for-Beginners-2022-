@@ -1,0 +1,1 @@
+Learn how to change the alignment of heading in an HTML web page.

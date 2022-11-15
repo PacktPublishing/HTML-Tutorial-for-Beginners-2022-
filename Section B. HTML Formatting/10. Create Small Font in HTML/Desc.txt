@@ -1,0 +1,1 @@
+Learn to create small font in HTML i.e. decrease the default font size. 

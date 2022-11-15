@@ -1,0 +1,5 @@
+         Create a link to send an email in HTML
+		   
+<a>...</a>
+
+mailto:emailid

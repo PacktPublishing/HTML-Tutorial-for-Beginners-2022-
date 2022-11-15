@@ -1,0 +1,4 @@
+Change heading alignment in HTML
+
+- CSS text-align property
+- Values: left, center, right

@@ -1,0 +1,22 @@
+
+        Set vertical header for a table in HTML
+
+<th>...<th>
+
+Horizontal Header
+<tr>
+ <th></th>
+ <th></th>
+</tr>		
+
+Vertical Header
+<tr>
+  <th></th>
+  <td></td>
+  <td></td>
+</th>
+<tr>
+  <th></th>
+  <td></td>
+  <td></td>
+</th>

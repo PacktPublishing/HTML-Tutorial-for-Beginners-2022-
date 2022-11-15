@@ -1,0 +1,6 @@
+How to set background color in HTML
+
+Use the CSS background-color property
+
+- <style></style>
+- <body style="">

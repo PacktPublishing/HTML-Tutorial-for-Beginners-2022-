@@ -1,0 +1,8 @@
+Floating image in HTML	   
+
+Use the CSS float property
+  - none: won't float
+  - right: float right
+  - left: float left
+  
+  

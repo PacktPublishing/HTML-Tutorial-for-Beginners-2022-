@@ -1,0 +1,12 @@
+
+             How to create tables in HTML	   
+
+<table>...</table>
+
+Table: Rows & Columns
+       Heading
+	   
+Rows: <tr>...</tr>
+Heading: <th>...</th>
+
+Cell: <td>...</td>

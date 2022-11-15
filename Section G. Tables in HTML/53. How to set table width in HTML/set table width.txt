@@ -1,0 +1,7 @@
+
+             Set table width in HTML	   
+
+Before HTML5: width attribute (deprecated) - NO
+
+HTML5: CSS style 
+       width property

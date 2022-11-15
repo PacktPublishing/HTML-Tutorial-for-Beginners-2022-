@@ -1,0 +1,6 @@
+Change text size in HTML
+
+- Use the font-size property
+
+- <style>
+- style attribute

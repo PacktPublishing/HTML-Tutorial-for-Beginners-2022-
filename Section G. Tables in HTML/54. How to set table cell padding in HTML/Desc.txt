@@ -1,0 +1,1 @@
+Learn how to set the cell padding of an HTML table. Cell Padding is the space between cell borders and the content within a cell.

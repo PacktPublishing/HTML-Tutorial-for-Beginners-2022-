@@ -1,0 +1,1 @@
+Learn how to make an image responsive in HTML.
