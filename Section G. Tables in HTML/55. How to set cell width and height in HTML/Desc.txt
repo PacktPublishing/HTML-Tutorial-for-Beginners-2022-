@@ -1,1 +1,0 @@
-Learn how to set table cell width and height in HTML.

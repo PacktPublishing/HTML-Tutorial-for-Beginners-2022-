@@ -1,1 +1,0 @@
-Learn how to set the postal address on a web page in HTML. We will use the <address> element for this purpose.

@@ -1,1 +1,0 @@
-Learn how to float an image in HTML

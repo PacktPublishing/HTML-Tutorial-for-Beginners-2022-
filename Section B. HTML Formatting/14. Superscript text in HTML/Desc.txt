@@ -1,1 +1,0 @@
-Learn how to superscript text in HTML using the <sup> element.

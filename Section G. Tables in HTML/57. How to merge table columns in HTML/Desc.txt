@@ -1,1 +1,0 @@
-Learn how to Merge table columns in HTML. Use the colspan attribute to merge columns in a table on an HTML web page.

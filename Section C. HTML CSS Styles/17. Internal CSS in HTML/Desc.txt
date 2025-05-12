@@ -1,1 +1,0 @@
-Learn how to add CSS to an HTML web page. Internal CSS allows you to add CSS to a web page using the style element/ tag. We will also see a live running example to understand the concept.

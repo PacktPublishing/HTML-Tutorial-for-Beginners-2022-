@@ -1,1 +1,0 @@
-Learn how to make Text Italic in HTML i.e. emphasize text using the <em> element.

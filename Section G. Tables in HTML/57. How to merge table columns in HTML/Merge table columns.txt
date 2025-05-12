@@ -1,6 +1,0 @@
-
-             Merge table columns in HTML   
-			 
-colspan: number of columns a cell should span
-
-<td colspan="2">

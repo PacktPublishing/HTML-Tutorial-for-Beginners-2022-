@@ -1,1 +1,0 @@
-Learn how to remove the underline from a link in HTML. We will use CSS style for this.

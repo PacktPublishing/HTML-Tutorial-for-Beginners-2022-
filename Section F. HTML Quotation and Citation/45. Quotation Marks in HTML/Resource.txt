@@ -1,3 +1,0 @@
-Quotations in HTML
-
-- Short quotations using <q>

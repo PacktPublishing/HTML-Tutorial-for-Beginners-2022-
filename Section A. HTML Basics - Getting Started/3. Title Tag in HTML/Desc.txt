@@ -1,1 +1,0 @@
-Learn how to add title in an HTML document using title element.

@@ -1,1 +1,0 @@
-Learn how to set abbreviation or acronym in HTML. We will use the <abbr> element for this.

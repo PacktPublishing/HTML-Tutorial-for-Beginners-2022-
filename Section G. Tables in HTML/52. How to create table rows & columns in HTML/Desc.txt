@@ -1,1 +1,0 @@
-Learn how to create rows & columns in an HTML table.

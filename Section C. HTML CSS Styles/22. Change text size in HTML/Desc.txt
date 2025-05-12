@@ -1,1 +1,0 @@
-Learn how to change the text size of a web page in HTML.

@@ -1,1 +1,0 @@
-In HTML, we can easily set the CSS styles. Use the link tag and set any style on any element like background color, font color, font size, font style, etc. We will do this by creating an external stylesheet and including all the styles in it.

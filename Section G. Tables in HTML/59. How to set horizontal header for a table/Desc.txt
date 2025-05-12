@@ -1,1 +1,0 @@
-Learn how to set horizontal header for a table in HTML.

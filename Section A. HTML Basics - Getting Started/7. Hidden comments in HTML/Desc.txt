@@ -1,2 +1,0 @@
-Learn how to set comments on an HTML web page. The comments are not read by the web browser.
-

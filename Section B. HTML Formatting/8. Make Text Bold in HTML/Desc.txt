@@ -1,1 +1,0 @@
-Learn how to make the text bold in HTML with the <strong> elemnt in HTML

@@ -1,1 +1,0 @@
-Set Image height and width attributes in HTML using <img> element.

@@ -1,1 +1,0 @@
-Learn how to set an image on a web page in HTML. We will use the <img> element to add an image.

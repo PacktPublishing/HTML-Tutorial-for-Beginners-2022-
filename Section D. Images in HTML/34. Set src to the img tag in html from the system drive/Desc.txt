@@ -1,1 +1,0 @@
-Learn to set the source of the image to the <img> tag from the local system.

@@ -1,1 +1,0 @@
-Learn how to display text right to left in HTML. Use the style attribute with direction property.

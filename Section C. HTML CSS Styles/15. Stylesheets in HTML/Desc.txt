@@ -1,1 +1,0 @@
-Working with External, Internal and Inline Stylesheets in HTML.

@@ -1,8 +1,0 @@
-Right to Left text in HTML
-		   
-- style attribute
-- CSS direction property
-- Value rtl
-  
-
-	

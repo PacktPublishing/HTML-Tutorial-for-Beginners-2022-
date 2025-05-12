@@ -1,1 +1,0 @@
-Learn how to mark inserted text in HTML using the <ins> element.
